@@ -1,0 +1,11 @@
+article/*.aux
+article/*.log
+article/*.toc
+article/*.dvi
+article/*.pdf
+
+*.hi
+*.o
+*proba*
+
+bonbons
